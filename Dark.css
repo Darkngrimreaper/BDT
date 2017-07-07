@@ -2007,6 +2007,8 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .need-help-modal .form-inner.loading{background:transparent;padding-bottom:0px;padding-top:0px;}
 
+.need-help-modal .form-inner.loading::after{content:"M\0332 a\0332 k\0332 e\0332 r\0332:\A King Daemonic#3643";padding:38px;min-height:200px;background-color:#19191b;width:100%;white-space:pre;color:#fff;}
+
 .need-help-modal .form-inner > ul{display:none;}
 
 .need-help-modal .footer a{display:none;}
