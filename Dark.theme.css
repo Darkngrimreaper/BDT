@@ -1,0 +1,10 @@
+//META{"name":"Dark","description":"Black with hints of red nice and sexy looking","author":"Darkngrimreaper","version":"0.0"}*//
+
+@import url("https://raw.githubusercontent.com/Darkngrimreaper/BDT/master/Dark.css");
+/*
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+ --main-color: #8d2036;
+ --hover-color: #6f182a;
+ }
