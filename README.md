@@ -1,0 +1,2 @@
+# BDT
+Better Discord Theme
